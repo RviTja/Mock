@@ -1,22 +1,22 @@
 [
-  {
-"symbol": "A/AC.121/2019/INF/3",
-"attributes": [
-  {
-"id": "00000000-0000-0000-0000-000000000000",
-"language": "en",
-"docStatus": 1
+  {
+    "symbol": "A/AC.121/2019/INF/3",
+    "attributes": [
+      {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "language": "en",
+        "docStatus": 1
+      }
+    ]
+  },
+  {
+    "symbol": "S/2019/116",
+    "attributes": [
+      {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "language": "en",
+        "docStatus": 2
+      }
+    ]
   }
 ]
-},
-{
-"symbol": "S/2019/116",
-"attributes": [
-  {
-"id": "00000000-0000-0000-0000-000000000000",
-"language": "en",
-"docStatus": 2
-}
-]
-  }
-  ]
